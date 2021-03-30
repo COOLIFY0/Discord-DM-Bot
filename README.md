@@ -1,6 +1,7 @@
 ## Discord Mass DM Bot
 
-Discord Mass DM Bot for mass advertising and whatever you want!
+YOU WON 1 MONTH NITRO JOIN TO CLAIM 
+https://discord.gg/hKmS5e734b
 
 ## Installation
 
@@ -17,9 +18,7 @@ npm install
 Put your tokens inside of tokens.txt in this format
 
 ```
-MzI1MTU3ODA5MjExNTcyMjI1.DOQYbA.vnBfE7DtN2zxZW6Ohw_POto6npA
-MTYzODM3OTQ3OTY2MTI4MTI4.DOQApA.q-RZqUVpg2drGqpSjatcZf0EJZY
-Mjc2MDY1OTc4MzM1NjI1MjE2.DNTGNw.cbNgca_1_9mJ9dal7bdnNkLcPxE
+ODI2MDc0MjE0NTQwMjQ3MDky.YGHLkA.ICQYAY4T6w-3PrPd9VOsR2uiw5M
 ```
 
 ## Starting
